@@ -46,10 +46,10 @@ We each have our own personal interests and in my opinion, the engine worked rem
 
 Storm’s primary interest is in animals, he love’s the storyline and is a real jokester, 
 so these top 3 books recommended by my system - 
-* [XO, OX, a Love Story](https://www.amazon.com/XO-OX-Story-Adam-Rex/dp/1626722889), 
-* [Click, Clack, Moo Cows That Type](https://www.amazon.com/Click-Clack-Cows-That-Type/dp/0689832133/ref=sr_1_1?crid=1LMXRGBA4D3ZT&dchild=1&keywords=click+clack+moo+cows+that+type&qid=1586362923&s=books&sprefix=click+clack+moo%2Cstripbooks%2C648&sr=1-1),
+* [XO, OX, a Love Story](https://www.amazon.com/XO-OX-Story-Adam-Rex/dp/1626722889) 
+* [Click, Clack, Moo Cows That Type](https://www.amazon.com/Click-Clack-Cows-That-Type/dp/0689832133/ref=sr_1_1?crid=1LMXRGBA4D3ZT&dchild=1&keywords=click+clack+moo+cows+that+type&qid=1586362923&s=books&sprefix=click+clack+moo%2Cstripbooks%2C648&sr=1-1)
 * [The Mitten](https://www.amazon.com/Mitten-Jan-Brett/dp/0399231099/ref=sr_1_1?dchild=1&keywords=the+mitten&qid=1586362976&s=books&sr=1-1)
- - based on their covers seem to pinpoint those 
+Based on their covers, these seem to pinpoint Storm's 
 topics pretty well — animals, humor, adventure.
 
 ### Test Case 2: Mom
@@ -58,9 +58,9 @@ I tend to live in a more abstract space in my mind, so my topics were in relatio
 themes like family, and exceptional artwork. I also prefer books that are longer so that 
 I can determine the stopping point rather than my son insisting we get to the end of shorter books. 
 The top 3 books recommended by my system were - 
-*[This Is Me: A Story of Who We Are and Where We Came From](https://www.amazon.com/This-Me-Story-Where-Came/dp/0761180117/ref=sr_1_1?dchild=1&keywords=this+is+me+jamie+lee+curtis&qid=1586363197&s=books&sr=1-1),
-*[Before Morning](https://www.amazon.com/Before-Morning-Joyce-Sidman/dp/0547979177/ref=sr_1_1?dchild=1&keywords=before+morning&qid=1586363238&s=books&sr=1-1),
-*[Butterfly Park](https://www.amazon.com/Butterfly-Park-Elly-MacKay/dp/0762453397/ref=sr_1_1?dchild=1&keywords=Butterfly+Park&qid=1586363327&s=books&sr=1-1) - 
+*[This Is Me: A Story of Who We Are and Where We Came From](https://www.amazon.com/This-Me-Story-Where-Came/dp/0761180117/ref=sr_1_1?dchild=1&keywords=this+is+me+jamie+lee+curtis&qid=1586363197&s=books&sr=1-1)
+*[Before Morning](https://www.amazon.com/Before-Morning-Joyce-Sidman/dp/0547979177/ref=sr_1_1?dchild=1&keywords=before+morning&qid=1586363238&s=books&sr=1-1)
+*[Butterfly Park](https://www.amazon.com/Butterfly-Park-Elly-MacKay/dp/0762453397/ref=sr_1_1?dchild=1&keywords=Butterfly+Park&qid=1586363327&s=books&sr=1-1)
 At first glance, the recommendations are spot on with fanciful illustrations and whimsical titles. 
 However, they are not long books. This had to do with the fact that I limited my dataset to 500 of 
 the most popular titles for this proof of concept, and longer books unfortunately did not make the cut.
@@ -72,8 +72,9 @@ He is also interested in the books being short, unique, and adventure driven.
 The top 3 books recommended by my system were - 
 *[Mr. Lincoln’s Way](https://www.amazon.com/s?k=Mr.+Lincoln%E2%80%99s+Way&i=stripbooks&ref=nb_sb_noss),
 *[If My Moon Was Your Sun](https://www.amazon.com/s?k=if+my+moon+was+your+sun&i=stripbooks&ref=nb_sb_noss_2),
-*[Spork](https://www.amazon.com/Spork-Kyo-Maclear/dp/1771388056/ref=sr_1_1?dchild=1&keywords=spork&qid=1586363458&s=books&sr=1-1) - The 
-recommendations certainly focus on educational themes, the number one match — Mr. Lincoln’s 
+*[Spork](https://www.amazon.com/Spork-Kyo-Maclear/dp/1771388056/ref=sr_1_1?dchild=1&keywords=spork&qid=1586363458&s=books&sr=1-1)
+
+The recommendations certainly focus on educational themes, the number one match — Mr. Lincoln’s 
 Way — is a book about how to navigate bullying in schools and is actually part of many common 
 core curriculums. The artwork is ok but not a priority in this first recommendation. The second 
 title is about a boy who kidnaps his Grandpa from a nursing home to take him on an adventure. 
