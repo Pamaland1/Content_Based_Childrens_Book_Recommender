@@ -113,3 +113,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Thank you to my husband, Jesung Park, for supporting me in new endeavors even though its tough
 * and [METIS](https://www.thisismetis.com/live-online-data-science-bootcamp) teachers for also supporting, assisting, and teaching me mad data science skills.
 
+* This project uses the Goodreads Dataset produced at UCSD for these papers. Many thanks to these authors:
+Mengting Wan, Julian McAuley, “Item Recommendation on Monotonic Behavior Chains”, in RecSys’18. [bibtex]
+Mengting Wan, Rishabh Misra, Ndapa Nakashole, Julian McAuley, “Fine-Grained Spoiler Detection from Large-Scale Review Corpora”, in ACL’19. [bibtex]
+
